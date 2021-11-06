@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml2_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2021-06-29 8:45">
+<shop>
+<name>ТЕСТ ТЕГИ</name>
+<company>Интернет магазин товаров для дома Home.ru</company>
+<url>https://home.ru</url>
+<platform>platform</platform>
+<version>4.11.4.SP3</version>
+<agency>Agency</agency>
+<email>sales@home.ru</email>
+<currencies>
+    <currency id="RUR" rate="1.0000"/>
+</currencies>
+<delivery-options>
+    <option cost="350" days="1" order-before="17"/>
+</delivery-options>
+<categories><category id="11867">Спецпредложения</category>
+<category id="11868">Компьютерная техника</category>
+<category id="11869">Электроника</category>
+<category id="11961" parentId="11959">Крепежи для плазменных, LCD панелей и проекторов</category>
+</categories>
+<offers>
+    <offer id="2000002" available="true" group_id="2000001">
+        <barcode>04603728440200</barcode>
+        <categoryId>11961</categoryId>
+        <country_of_origin>Китай</country_of_origin>
+        <currencyId>RUR</currencyId>
+        <delivery>true</delivery>
+        <description>ТЕСТОВЫЙ ТОВАР! НЕ ПОКУПАТЬ!</description>
+        <name>ТЕСТ ТЕГИ габариты</name>
+        <param name="barcode">04603728440200</param>
+ <param name="barcode">04603728440sddss200</param>
+        <param name="Партномер">4603728440200</param>
+        <param name="Тип">Кронштейн</param>
+        <param name="Страна производитель">Китай</param>
+        <param name="Совместимость">VESA: 75х75 ~ 600х400 мм</param>
+        <param name="сайт производителя">http://onkron.ru/</param>
+        <param name="Прочее">диагональю 40&quot;-65&quot;  Максимальная нагрузка: 36,4 кг</param>
+        <param name="Производитель">ONKRON</param>
+        <param name="Назначение">Крепление телевизора на стену</param>s
+        <param name="Модель">TM6</param>
+        <param name="Материал">Сталь</param>
+        <param name="Количество (шт)">1</param>
+        <param name="гарантия">5 лет</param>
+        <cus_skucolor>Светло-зеленый</cus_skucolor> ---or <param name="Цвет">Светло-зеленый</param>
+        <size>M</size> ---or <param name="Размер">M</param>
+        <sku_picture>https://ae01.alicdn.com/kf/H6cee548caaf944a3863c27d349fd6d5cS.jpeg</sku_picture>
+        <weight>10</weight>
+        <length>20</length>
+        <width>30</width>
+        <height>40</height>
+        <picture>https://ae01.alicdn.com/kf/H6cee548caaf944a3863c27d349fd6d5cS.jpeg</picture>
+        <price>888331</price>
+        <discount_price>777001</discount_price>
+        <quantity>55</quantity>
+        <vendor>ONKRON</vendor>
+        <sku_code>4603728440200</sku_code>
+    </offer>
+
+</offers></shop>
+</yml_catalog>
